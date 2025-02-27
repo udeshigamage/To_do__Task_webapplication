@@ -1,0 +1,22 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build output
+dist/
+build/
+
+# Ignore environment files
+.env
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore logs
+*.log
